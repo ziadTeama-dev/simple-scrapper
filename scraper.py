@@ -1,8 +1,10 @@
 # import libraries
 import requests as req 
 import time  # incase of falling request 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup #
 import os
+
+
 # fake headers عشان اضحك علي الموقع
 
 headers = {
